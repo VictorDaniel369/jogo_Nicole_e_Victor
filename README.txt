@@ -1,1 +1,0 @@
-Hello, we must choose a video teaching how to develop a game in javascript language and replicate it.
